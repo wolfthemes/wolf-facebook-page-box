@@ -1,0 +1,14 @@
+{
+	"version": "1.0.9",
+	"updated": "2020-09-03",
+	"slug": "wolf-facebook-page-box",
+	"name": "Facebook Page Box",
+	"packagename": "WolfFacebookPageBox",
+	"created": "2015-04-23",
+	"createdNice": "23th April 2015",
+	"description": "A Facebook page box widget and shortcode for WordPress.",
+	"link": "http://wolfthemes.com/plugin/wolf-facebook-page-box",
+	"shortlink": "https://wlfthm.es/facebook-page-box",
+	"author": "WolfThemes",
+	"authorURI": "https://wolfthemes.com"
+}

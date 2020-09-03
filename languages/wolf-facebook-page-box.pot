@@ -1,0 +1,154 @@
+# Copyright (C) 2020 WolfThemes
+# This file is distributed under the same license as the Facebook Page Box package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Facebook Page Box 1.0.9\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/wolf-facebook-page-box\n"
+"POT-Creation-Date: 2020-09-03 08:00:37+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: classes/class-wfpb-widget.php:24
+#: pack/wolf-facebook-page-box/classes/class-wfpb-widget.php:24
+msgid "Display a Facebook page box"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Facebook Page Box"
+msgstr ""
+
+#: classes/class-wfpb-widget.php:87
+#: pack/wolf-facebook-page-box/classes/class-wfpb-widget.php:87
+msgid "Join us"
+msgstr ""
+
+#: classes/class-wfpb-widget.php:98
+#: pack/wolf-facebook-page-box/classes/class-wfpb-widget.php:98
+msgid "Title"
+msgstr ""
+
+#: classes/class-wfpb-widget.php:102
+#: pack/wolf-facebook-page-box/classes/class-wfpb-widget.php:102
+msgid "Facebook Page URL"
+msgstr ""
+
+#: classes/class-wfpb-widget.php:106
+#: pack/wolf-facebook-page-box/classes/class-wfpb-widget.php:106
+msgid "height"
+msgstr ""
+
+#: classes/class-wfpb-widget.php:109
+#: pack/wolf-facebook-page-box/classes/class-wfpb-widget.php:109
+msgid "default is %s"
+msgstr ""
+
+#: classes/class-wfpb-widget.php:113
+#: pack/wolf-facebook-page-box/classes/class-wfpb-widget.php:113
+msgid "Show posts"
+msgstr ""
+
+#: classes/class-wfpb-widget.php:116
+#: pack/wolf-facebook-page-box/classes/class-wfpb-widget.php:116
+msgid "Show faces"
+msgstr ""
+
+#: classes/class-wfpb-widget.php:119
+#: pack/wolf-facebook-page-box/classes/class-wfpb-widget.php:119
+msgid "Small header"
+msgstr ""
+
+#: classes/class-wfpb-widget.php:122
+#: pack/wolf-facebook-page-box/classes/class-wfpb-widget.php:122
+msgid "Hide cover"
+msgstr ""
+
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/basic-theme/exclude/file.php:3
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/plugin-include/plugin-include.php:6
+msgid "Exclude"
+msgstr ""
+
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/plugin-include/include/file.php:2
+msgid "Include"
+msgstr ""
+
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/add-domain.php:2
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:2
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:3
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:4
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-domains.php:2
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-domains.php:3
+msgid "String"
+msgstr ""
+
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:9
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:10
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:11
+msgid "1 Star"
+msgid_plural "%s Stars"
+msgstr[0] ""
+msgstr[1] ""
+
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/translator-comments/translator-comments.php:7
+#. translators: A single line translators comment.
+msgid "A"
+msgstr ""
+
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/translator-comments/translator-comments.php:15
+#. translators: A multiline translators comment.
+msgid "B"
+msgstr ""
+
+#: pack/wolf-facebook-page-box/updater.php:434 updater.php:434
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please "
+"reactivate it manually."
+msgstr ""
+
+#: pack/wolf-facebook-page-box/updater.php:435 updater.php:435
+msgid "Plugin reactivated successfully."
+msgstr ""
+
+#: pack/wolf-facebook-page-box/wolf-facebook-page-box.php:178
+#: wolf-facebook-page-box.php:165
+msgid "en_US"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wolfthemes.com/plugin/wolf-facebook-page-box"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A Facebook page box widget and shortcode for WordPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WolfThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wolfthemes.com"
+msgstr ""
+
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:6
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:7
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:8
+msgctxt "a string"
+msgid "String"
+msgstr ""
